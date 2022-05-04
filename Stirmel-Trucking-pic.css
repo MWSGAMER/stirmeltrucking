@@ -1,0 +1,124 @@
+body {
+    background-color: #151515;
+    max-width: 100%;
+    min-height: 50%;
+    max-height: 100%;
+    overflow-x: hidden;
+    text-align: center;
+    margin: 0;
+}
+.li-2 {
+    text-align: left;
+    font-size:  2vw;
+}
+h5 {
+    font-size: 4vw;
+}
+h4 {
+    font-size: 100%;
+    padding-top: 1%;
+    font-family:'Times New Roman', Times, serif;
+}
+a {
+    font-size: 1.5vh;
+}
+.navbar-logo-pic {
+    height: 10vh;
+    width: auto;
+    background-color: white;
+    border-width: 10%;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    text-align: left;
+}
+.navbar-logo {
+    background-color:  #660000;
+    width: auto;
+    color: white;
+    text-align: left;
+}
+.nav-tabs {
+    background-color:  #660000;
+    width: auto;
+    display: inline-flex;
+    color: white;
+    text-align: left;
+}
+.nav-link {
+    color: white;
+}
+.truck-pic-1 {
+    width: 40vw;
+    height: auto;
+    margin: 1vw;
+    border-style: solid;
+    border-width: 10%;
+    border-radius: 10px;
+    border-color: #660000;
+}
+.truck-pic-2 {
+    width: 40vw;
+    height: auto;
+    margin: 1vw;
+    border-style: solid;
+    border-width: 10%;
+    border-radius: 10px;
+    border-color: #660000;
+}
+.truck-pic-3 {
+    width: 40vw;
+    height: auto;
+    margin: 1vw;
+    border-style: solid;
+    border-width: 10%;
+    border-radius: 10px;
+    border-color: #660000;
+}
+.truck-pic-4 {
+    width: 40vw;
+    height: auto;
+    margin: 1vw;
+    border-style: solid;
+    border-width: 10%;
+    border-radius: 10px;
+    border-color: #660000;
+}
+.truck-pic-5 {
+    width: 40vw;
+    height: auto;
+    margin: 1vw;
+    border-style: solid;
+    border-width: 10%;
+    border-radius: 10px;
+    border-color: #660000;
+}
+.truck-pic-6 {
+    width: 40vw;
+    height: auto;
+    margin: 1vw;
+    border-style: solid;
+    border-width: 10%;
+    border-radius: 10px;
+    border-color: #660000;
+}
+.truck-pic-7 {
+    width: 40vw;
+    height: auto;
+    margin: 1vw;
+    border-style: solid;
+    border-width: 10%;
+    border-radius: 10px;
+    border-color: #660000;
+}
+.contact-me {
+    background-color: #660000;
+    color: white;
+    margin-top: 15vh;;
+    overflow-y: hidden;
+    padding-bottom: 1%;
+    height: auto;
+}
+.contact-button {
+    background-color: #f2f2f2;
+}
